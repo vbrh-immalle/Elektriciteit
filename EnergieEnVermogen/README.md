@@ -4,7 +4,7 @@ Laten we het gebruik van **elektriciteit** beschouwen voor **energietransport** 
 
 Het (Europese) elektriciteitsnet gebruikt **wisselstroom** (**AC** = Alternating Current) om elektrische energie (in Joule `[J]` (S.I.-eenheid) of kilowatt-uur `[kWh]` (populaire eenheid) te transporteren van de **energiecentrales** naar de (industriële en residentiële) **verbruikers**.
 
-![[Energiecentrales.png]]
+![](Energiecentrales.png)
 
 `1 kWh = 1 kW * 1 uur = 1000 W * 3600 seconden = 3 600 000 J = 3,6 MJ`
 
@@ -13,7 +13,7 @@ Het (Europese) elektriciteitsnet gebruikt **wisselstroom** (**AC** = Alternating
 
 Toestellen werken - afhankelijk van wat ze aan het doen zijn - aan een bepaald **vermogen** (in Watt `[W]` of Joule per seconde `[J/s]`). Ze hebben per seconde `[s]` een bepaalde hoeveelheid energie `[J]` nodig.
 
-![[ElektrischeApparaten.png]]
+![](ElektrischeApparaten.png)
 
 **Hoe intensiever een toestel wordt gebruikt, hoe groter het (ogenblikkelijk) vermogen** en dus hoe meer energie per seconde verbruikt wordt. 
 
@@ -32,7 +32,7 @@ We kunnen i.p.v. het woord energie ook het woord arbeid gebruiken omdat energie 
 Voorbeeld v.e. energieberekening op jaarbasis:
 
 Toestel | Operationele tijd per jaar `[uur]` | Vermogen `[kW]` | Jaarlijks energieverbuik `[kWh]`
---|--|--|--|
+:--|--:|--:|--:|
 ijskast | 365 dagen * 24 uur = 8760 uur | 0,02 kW | 8760 * 0,02 = 175,2 kWh |
 microgolf | 365 dagen * 0,25 uur = 91,25 uur | 0,7 kW | 91,25 * 0,7 = 63,875 kWh|
 broodrooster | 52 dagen * 5 min = 52 * 0,12 uur = 6,24 uur | 0,75 kW | 6,24 * 0,75 = 4,68 kWh |
@@ -44,11 +44,11 @@ Batterijen leveren elektrische energie.  Ze werken met **gelijkstroom** (**DC**
 
 **Herlaadbare batterijen** kunnen ook energie **verbruiken**, nl. wanneer ze opgeladen worden.
 
-![[BatterijAlsVerbruiker.png]]
+![](BatterijAlsVerbruiker.png)
 
 > Je ziet een typische verdeelstekker om één stopcontact te splitsen in meerdere stopcontacten. Één van de sockets bevat een USB-lader met een USB-output (met daarom een uitgangsspanning van `5 Volt`). Een power bank van `20 000 mAh` wordt opgeladen. De power bank is op dit moment een **verbruiker** van energie uit het **net**.
 
-![[BatterijAlsEnergiebron.png]]
+![](BatterijAlsEnergiebron.png)
 
 > Je ziet een power bank die met een USB-kabel een smartphone oplaadt. De power bank is momenteel dus een **energiebron** voor de batterij van de smartphone.
 
