@@ -1,0 +1,2 @@
+# Spanning, stroom en weerstand
+
